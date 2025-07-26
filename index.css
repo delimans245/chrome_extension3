@@ -1,0 +1,34 @@
+body {
+
+}
+
+#input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#saveButton {
+    color:white;
+    background-color: #4CAF50;
+    border: 1px solid #4CAF50;
+    padding: 10px 20px;
+    margin-top: 4px;
+}
+
+#saveTabButton {
+    color:white;
+    background-color: #4CAF50;
+    border: 1px solid #4CAF50;
+    padding: 10px 20px;
+    margin-top: 4px;
+
+}
+
+#deleteButton {
+    color: #4CAF50;
+    background-color: white;
+    border: 1px solid #4CAF50;
+    padding: 10px 20px;
+    margin-top: 4px;
+}
