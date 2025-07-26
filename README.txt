@@ -1,0 +1,1 @@
+I'm getting better at coding this. I still need to learn how to code this on my own and not use chat. But im getting better at it. I learned about using localstorage a bit more. Im still a bit fuzzy on using JSON stringify and parse as well as the usage of the chrome api.
